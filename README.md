@@ -2,7 +2,7 @@
 視覺化統計2020年，osu!所有ranked及loved圖相關數據。  
 https://datastudio.google.com/s/jIrztqsZvwM  
 
-![demo](demo.png =100x20)
+![demo](demo.png)
 
 ## 相關連結
 * [osu!API](https://github.com/ppy/osu-api/wiki)  
