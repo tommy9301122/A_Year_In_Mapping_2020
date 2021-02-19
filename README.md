@@ -1,4 +1,4 @@
-# A_Year_In_Mapping_2020  
+# A Year In Mapping 2020  
 視覺化統計2020年，osu!std所有ranked及loved圖相關數據。  
 https://datastudio.google.com/s/jIrztqsZvwM  
 
